@@ -15,3 +15,4 @@ Reviewed payloads are signed by the maintainer outside this repository. NCT chec
 Only public model/manufacturer/type/source information belongs here. Never add device observations, customer/site data, credentials, private signing keys or diagnostic sessions. Automatic contributions will use a private pending service; that service is not deployed yet.
 
 Catalogue endpoint: https://raw.githubusercontent.com/anoraq1/nct-device-catalogue/main/index.json
+Catalogue update indexes point to immutable versioned filenames so a newly fetched index cannot accidentally download a cached older catalogue.
