@@ -4,9 +4,9 @@ Checked device identities for Hanwha/Samsung and Hikvision. Public downloads req
 
 ## Coverage
 
-Catalogue version 2026103102 contains 424 records: 253 Hanwha/Samsung and 171 Hikvision. This is an initial checked subset, not an exhaustive manufacturer inventory. Regional editions and older product portfolios are retained as evidence; inclusion does not imply current availability or a successful discovery test.
+Catalogue version 2026103103 contains 674 records: 503 Hanwha/Samsung and 171 Hikvision. This is an initial checked subset, not an exhaustive manufacturer inventory. Regional editions and older product portfolios are retained as evidence; inclusion does not imply current availability or a successful discovery test.
 
-Sources include Hanwha's 2024 global product portfolio and official product listings, and Hikvision's 2025 USA Product & Solution Quick Guide. Each record links to its official source, including the PDF page where relevant. Network cameras, NVRs, network-capable DVRs and encoders are included. Accessories, analogue-only cameras, ambiguous variants and incomplete extracted model strings are excluded from this checked release.
+Sources include Hanwha's 2024 global product portfolio and official product listings, and Hikvision's 2025 USA Product & Solution Quick Guide. Additional Hanwha/Samsung models are verified directly against exact official product-detail metadata, so newer products are not excluded merely because an older PDF omits them. Each record links to its official source, including the PDF page where relevant. Network cameras, NVRs, network-capable DVRs and encoders are included. Accessories, analogue-only cameras, ambiguous variants and incomplete extracted model strings are excluded from this checked release.
 
 ## Publication
 
