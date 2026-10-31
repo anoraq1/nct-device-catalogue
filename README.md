@@ -12,7 +12,7 @@ Sources include Hanwha's 2024 global product portfolio and official product list
 
 Reviewed payloads are signed by the maintainer outside this repository. NCT checks the pinned public key, checksum, schema and increasing version before applying updates. Candidate collection never directly changes trusted catalogue entries. Source provenance identifies the model; it does not prove a particular discovery method passed.
 
-Only public model/manufacturer/type/source information belongs here. Never add device observations, customer/site data, credentials, private signing keys or diagnostic sessions. The private pending gateway is deployed and isolated submission/review/revocation tests have passed. General enrolment remains disabled pending final NCT client validation.
+Only public model/manufacturer/type/source information belongs here. Never add device observations, customer/site data, credentials, private signing keys or diagnostic sessions. The private pending gateway is deployed and isolated submission/review/revocation tests have passed. Contributors register automatically when product-only sharing is enabled in NCT. Sharing is off by default; trusted catalogue entries are published after maintainer review.
 
 Catalogue endpoint: https://raw.githubusercontent.com/anoraq1/nct-device-catalogue/main/index.json
 Catalogue update indexes point to immutable versioned filenames so a newly fetched index cannot accidentally download a cached older catalogue.
